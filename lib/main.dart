@@ -1,19 +1,3 @@
-// import 'package:flutter/material.dart';
-// import 'home.dart';
-// void main() {
-//   runApp(MyApp());
-// }
-
-// class MyApp extends StatelessWidget {
-//   @override
-//   Widget build(BuildContext context) {
-//     return MaterialApp(
-//       title: 'Cats VS Dogs',
-//       home: Home(),
-//       debugShowCheckedModeBanner: false,
-//     );
-//   }
-// }
 import 'package:meddetect/core/common/cubits/app_user/app_user_cubit.dart';
 import 'package:meddetect/core/theme/theme.dart';
 import 'package:meddetect/features/auth/presentation/bloc/auth_bloc.dart';
